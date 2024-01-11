@@ -1,1 +1,5 @@
-test.spacex.org
+$ dig test.spacex.org +nostats +nocomments +nocmd
+> ;test.spacex.org.                    IN      A
+> test.spacex.org.             3592    IN      CNAME   7iliama1.github.io.
+> 7iliama1.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
+> GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
