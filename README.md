@@ -6,7 +6,7 @@
 - `npm run build` — запуск проекта в режиме Production
 - `npm start` — запуск проекта в режиме разработки
 
-### Используемые технологии
+## Используемые технологии
 - [React](https://react.dev/)
 - [React Router](https://reactrouter.com/en/main)
 - Адаптивная вёрстка
@@ -14,4 +14,7 @@
 - HTML
 - CSS
 - JS
+
+### Финальная версия проекта
+ https://7iliama1.github.io/spaceX_test/
 
